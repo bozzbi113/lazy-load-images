@@ -1,4 +1,4 @@
-* {
+rw* {
   box-sizing: border-box;
   color: red;
 }
@@ -8,6 +8,9 @@ body {
   padding: 1px;
   background-color: #e8edec;
   color: #2221;
+  
+  
+  
   align-content: center;
   font: normal normal normal 1rem/1.6 Nunito Sans, Helvetica, Arial, sans-serif;
 }
